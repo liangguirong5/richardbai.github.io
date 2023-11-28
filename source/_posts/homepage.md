@@ -1,16 +1,18 @@
 ---
 title: homepage
-date: 2020-10-17 01:24:19
+date: 2023-03-23 01:24:19
 tags:
 academia: true
 ---
 # About
 
-I am a final year Ph.D. candidate researching Natural Language Processing at the University of Waterloo. I work with [Ming Li](https://scholar.google.ca/citations?user=oGgPXFEAAAAJ&hl=en) on language modeling and unsupervised machine learning methods. Before that, I worked with [Chengqing Zong](https://scholar.google.com.hk/citations?user=l8lvKOQAAAAJ&hl=en) on spoken language understanding during my master's study.
+I am a Machine Learning Research Scientist at Apple. 
+I got my PhD degree from the University of Waterloo, where I worked with [Ming Li](https://scholar.google.ca/citations?user=oGgPXFEAAAAJ&hl=en) on language modeling and unsupervised machine learning methods. 
+Before that, I worked with [Chengqing Zong](https://scholar.google.com.hk/citations?user=l8lvKOQAAAAJ&hl=en) on spoken language understanding during my master's study.
 
 In general, my research investigates how to represent language for computing. Lately, I am obsessed with language modeling which represents language via neural computing for its unsupervised and task-agnostic nature. I am also interested in multilingual problems and acoustic sequence modeling.
 
-My thesis concerns modeling text and speech sequences to achieve lower perplexity, better generation, and benefit downstream language tasks; specifically, we address the problem of modeling text and text-speech sequences with Transformer-based language models. My favorite works during my Ph.D. study are [Segment-Aware Language Modeling](https://arxiv.org/abs/2004.14996), [Hypernym-Instructed Language Modeling](arxiv.org/abs/2203.10692), and [Alignment-Aware Acoustic and Text Modeling](arxiv.org/abs/2203.09690). 
+My past works concern modeling text and speech sequences to achieve lower perplexity, better generation, and benefit downstream language tasks; specifically, we address the problem of modeling text and text-speech sequences with Transformer-based language models. My favorite works during my Ph.D. study are [Segment-Aware Language Modeling](https://arxiv.org/abs/2004.14996), [Hypernym-Instructed Language Modeling](arxiv.org/abs/2203.10692), and [Alignment-Aware Acoustic and Text Modeling](arxiv.org/abs/2203.09690). 
 
 # Publications
 Xiaoran Fan, Chao Pang, Tian Yuan, **He Bai**, Renjie Zheng, Pengfei Zhu, Shuohuan Wang, Junkun Chen, Zeyu Chen, Liang Huang, Yu Sun, Hua Wu. ERNIE-SAT: Speech and Text Joint Pretraining for Cross-Lingual Multi-Speaker Text-to-Speech. (preprint) [[pdf]](https://arxiv.org/abs/2211.03545)[[code]](https://github.com/PaddlePaddle/PaddleSpeech/tree/develop/examples/aishell3_vctk/ernie_sat)
