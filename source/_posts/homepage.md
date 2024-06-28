@@ -6,39 +6,42 @@ academia: true
 ---
 # About
 
-I am a Machine Learning Research Scientist at [Apple MLR](https://machinelearning.apple.com/), primarily working on NLP.
+I am a Machine Learning Research Scientist at [Apple MLR](https://machinelearning.apple.com/), primarily working on NLP and Audio pretraining. I am working closely with [Navdeep Jaitly](https://scholar.google.com/citations?user=kjMNMLkAAAAJ&hl=en) in [Samy Bengio](http://bengio.abracadoudou.com)'s team. Currently, I am interested in large-scale text-speech modeling, long-form sequence modeling, and factualness, consistency, and robustness of language models. 
 
-I received my PhD degree from the University of Waterloo, worked on language modeling and unsupervised machine learning under the supervision of [Ming Li](https://scholar.google.ca/citations?user=oGgPXFEAAAAJ&hl=en). 
+I received my PhD degree from the University of Waterloo, worked on language modeling and unsupervised machine learning under the supervision of [Ming Li](https://scholar.google.ca/citations?user=oGgPXFEAAAAJ&hl=en) and worked closely with [Jimmy Lin](https://scholar.google.com/citations?user=0EWw1z8AAAAJ&hl=en). 
 Before that, I worked with [Chengqing Zong](https://scholar.google.com.hk/citations?user=l8lvKOQAAAAJ&hl=en) on spoken language understanding.
 
-I have served as a PC member of ACL (2020-2024), EMNLP (2019-2023), ICML (2022-2023), Neurips (2023), ICLR (2023-2024), AAAI (2020), COLING (2020-2024). I received ICML Outstanding Reviewers awards (2022). I am an organizer of Embodied AI Workshop in CVPR 2024.
+I am an area chair of ACL Rolling Review, and an outstanding reviewer of ICML.
+I have been serving as a reviewer of ICML, NeurIPS, ICLR, ACL, EMNLP, NAACL, COLING, and AAAI since 2019.
+I organized a challenge of [Embodied AI Workshop](https://embodied-ai.org) in CVPR 2024.
+
 <!-- 
 I am one of the challenge organizers of Embodied AI Workshop in CVPR 2024.  -->
 
-My recent research focuses on below topics:
+<!-- My recent research focuses on below topics:
 - Large-scale Text-Speech Modeling
 - Long-form Sequence Modeling
-- Factualness, Consistency, and Robustness
+- Factualness of Fundation Models -->
 
-<!-- 
-My past works concern modeling text and speech sequences to achieve lower perplexity, better generation, and benefit downstream language tasks; specifically, we address the problem of modeling text and text-speech sequences with Transformer-based language models. My favorite works during my Ph.D. study are [Segment-Aware Language Modeling](https://arxiv.org/abs/2004.14996), [Hypernym-Instructed Language Modeling](arxiv.org/abs/2203.10692), and [Alignment-Aware Acoustic and Text Modeling](arxiv.org/abs/2203.09690).  -->
+# Publications
+You can find my publication list from my [Google Scholar](https://scholar.google.com/citations?user=MIcmEaMAAAAJ&hl=en) profile.
 
-# Selected Publications
 
-Y Zhang\*, **H Bai\***, R Zhang\*, J Gu, S Zhai, J Susskind, N Jaitly. How Far Are We from Intelligent Visual Deductive Reasoning? arXiv preprint arXiv:2403.04732. 2024. (*equal)
+Zijin Gu, Tatiana Likhomanenko, **He Bai**, Erik McDermott, Ronan Collobert, Navdeep Jaitly. Denoising LM: Pushing the Limits of Error Correction Models for Speech Recognition. arXiv preprint arXiv:2405.15216. 2024.
 
-Z Wu, **H Bai**, A Zhang, J Gu, VG Vydviswaran, N Jaitly, Y Zhang. Divide-or-Conquer? Which Part Should You Distill Your LLM? arXiv preprint arXiv:2402.15000. 2024.
+Y Zhang\*, **He Bai\***, R Zhang\*, J Gu, S Zhai, J Susskind, N Jaitly. How Far Are We from Intelligent Visual Deductive Reasoning? arXiv preprint arXiv:2403.04732. 2024. (*equal)
 
-P Maini, S Seto, **H Bai**, D Grangier, Y Zhang, N Jaitly. Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling. arXiv preprint arXiv:2401.16380. 2024.
+Z Wu, **He Bai**, A Zhang, J Gu, VG Vydviswaran, N Jaitly, Y Zhang. Divide-or-Conquer? Which Part Should You Distill Your LLM? arXiv preprint arXiv:2402.15000. 2024.
 
-S Zheng\*, **H Bai\***, Y Zhang, Y Su, X Niu, N Jaitly. KGLens: A Parameterized Knowledge Graph Solution to Assess What an LLM Does and Doesn't Know. arXiv preprint arXiv:2312.11539. 2023. (*equal)
+P Maini, S Seto, **He Bai**, D Grangier, Y Zhang, N Jaitly. Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling. ACL 2024.
 
-A Mousavi, X Zhan, **H Bai**, P Shi, T Rekatsinas, B Han, Y Li, J Pound, ... Construction of Paired Knowledge Graph-Text Datasets Informed by Cyclic Evaluation. arXiv preprint arXiv:2309.11669. 2023.
+S Zheng\*, **He Bai\***, Y Zhang, Y Su, X Niu, N Jaitly. KGLens: A Parameterized Knowledge Graph Solution to Assess What an LLM Does and Doesn't Know. arXiv preprint arXiv:2312.11539. 2023. (*equal)
 
-**H Bai**. Novel Methods for Natural Language Modeling and Pretraining. University of Waterloo. 2023.
+A Mousavi\*, X Zhan\*, **He Bai\***, P Shi, T Rekatsinas, B Han, Y Li, J Pound, ... Construction of Paired Knowledge Graph-Text Datasets Informed by Cyclic Evaluation. COLING 2024. (*equal)
 
-P Shi, L Song, L Jin, H Mi, **H Bai**, J Lin, D Yu. Cross-lingual Text-to-SQL Semantic Parsing with Representation Mixup. Findings of the Association for Computational Linguistics: EMNLP 2022, 5296-5306. 2022.
+**He Bai**. Novel Methods for Natural Language Modeling and Pretraining. University of Waterloo. 2023.
 
+P Shi, L Song, L Jin, H Mi, **He Bai**, J Lin, D Yu. Cross-lingual Text-to-SQL Semantic Parsing with Representation Mixup. Findings of the Association for Computational Linguistics: EMNLP 2022, 5296-5306. 2022.
 
 
 Xiaoran Fan, Chao Pang, Tian Yuan, **He Bai**, Renjie Zheng, Pengfei Zhu, Shuohuan Wang, Junkun Chen, Zeyu Chen, Liang Huang, Yu Sun, Hua Wu. ERNIE-SAT: Speech and Text Joint Pretraining for Cross-Lingual Multi-Speaker Text-to-Speech. (preprint) [[pdf]](https://arxiv.org/abs/2211.03545)[[code]](https://github.com/PaddlePaddle/PaddleSpeech/tree/develop/examples/aishell3_vctk/ernie_sat)
