@@ -6,21 +6,21 @@ academia: true
 ---
 # About
 
-I am a Machine Learning Researcher at [Apple MLR](https://machinelearning.apple.com/), specializing in Natural Language Processing (NLP) and Speech Technologies. My work focuses on advancing the boundaries of audio and text sequence modeling through innovative research approaches.
+I am a Machine Learning Researcher at [Apple MLR](https://machinelearning.apple.com/), specializing in Natural Language Processing (NLP) and Speech Technologies. 
 
 ## Academic Background
-I completed my PhD in Computer Science at the University of Waterloo in 2023, with a dissertation titled "[Novel Methods for Natural Language Modeling and Pretraining](https://uwspace.uwaterloo.ca/items/7f8262f0-325b-4623-8996-edcd8fdbd780)", under the supervision of Professor [Ming Li](https://scholar.google.ca/citations?user=oGgPXFEAAAAJ&hl=en). Before that,
+I completed my PhD in Computer Science at the University of Waterloo in 2023, with a dissertation titled "[Novel Methods for Natural Language Modeling and Pretraining](https://uwspace.uwaterloo.ca/items/7f8262f0-325b-4623-8996-edcd8fdbd780)", under the supervision of Professor [Ming Li](https://scholar.google.ca/citations?user=oGgPXFEAAAAJ&hl=en). 
 Prior to my doctoral studies, I obtained a Master's degree from the Chinese Academy of Sciences, where I began my NLP research journey under the mentorship of Professor [Chengqing Zong](https://scholar.google.com.hk/citations?user=l8lvKOQAAAAJ&hl=en).
+
+## Academic Service
+I serve as an Area Chair for ACL Rolling Review and have been an active reviewer for top-tier NLP and ML conferences since 2019, including ACL, EMNLP, ICML, NeurIPS, and ICLR. My contributions were recognized with an Outstanding Reviewer Award at ICML 2022. Most recently, I organized a challenge track at the Embodied AI Workshop in CVPR 2024. 
 
 ## Research Interest
 My research spans a broad and dynamic range of Natural Language Processing domains, including: language model pretraining, text-speech joint modeling, sentence representation learning, text summarization, machine translation, spoken language understanding, multilingual NLP, and information retrieval. 
 
 Currently, I am deeply engaged in advancing audio and text sequence modeling, developing innovative approaches that push the boundaries of computational linguistics and machine learning.
 
-## Academic Service
-I serve as an Area Chair for ACL Rolling Review and have been an active reviewer for top-tier NLP and ML conferences since 2019, including ACL, EMNLP, ICML, NeurIPS, and ICLR. My contributions were recognized with an Outstanding Reviewer Award at ICML 2022. Most recently, I organized a challenge track at the Embodied AI Workshop in CVPR 2024. 
-
-## Selected Publications
+# Selected Publications
 
 **He Bai\***, Tatiana Likhomanenko\*, Ruixiang Zhang, Zijin Gu, Zakaria Aldeneh, Navdeep Jaitly. dMel: Speech tokenization made simple. Preprint.  [[pdf]](https://arxiv.org/abs/2407.15835) (*equal)
 
