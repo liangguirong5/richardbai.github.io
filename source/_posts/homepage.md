@@ -26,12 +26,12 @@ I am one of the challenge organizers of Embodied AI Workshop in CVPR 2024.  -->
 <!-- 
 My past works concern modeling text and speech sequences to achieve lower perplexity, better generation, and benefit downstream language tasks; specifically, we address the problem of modeling text and text-speech sequences with Transformer-based language models. My favorite works during my Ph.D. study are [Segment-Aware Language Modeling](https://arxiv.org/abs/2004.14996), [Hypernym-Instructed Language Modeling](arxiv.org/abs/2203.10692), and [Alignment-Aware Acoustic and Text Modeling](arxiv.org/abs/2203.09690).  -->
 
-# Selected Publications
 
 **He Bai\***, Tatiana Likhomanenko\*, Ruixiang Zhang, Zijin Gu, Zakaria Aldeneh, Navdeep Jaitly. dMel: Speech tokenization made simple. Preprint.  [[pdf]](https://arxiv.org/abs/2407.15835) (*equal)
 
 Y Zhang\*, **H Bai\***, R Zhang\*, J Gu, S Zhai, J Susskind, N Jaitly. How Far Are We from Intelligent Visual Deductive Reasoning? COLM 2024 [[pdf]](https://arxiv.org/abs/2403.04732)[[code]](https://github.com/apple/ml-rpm-bench). (*equal)
 
+P Shi, L Song, L Jin, H Mi, **He Bai**, J Lin, D Yu. Cross-lingual Text-to-SQL Semantic Parsing with Representation Mixup. Findings of the Association for Computational Linguistics: EMNLP 2022, 5296-5306. 2022.
 
 **He Bai\***, Renjie Zheng\*, Junkun Chen, Xintong Li, Mingbo Ma, Liang Huang. A3T: Alignment-Aware Acoustic and Text Pretraining for Speech Synthesis and Editing.  ICML 2022 [[pdf]](https://arxiv.org/abs/2203.09690)[[code]](https://github.com/richardbaihe/a3t). (*equal)
 
