@@ -26,8 +26,6 @@ Currently, I am deeply engaged in advancing audio and text sequence modeling, de
 
 Y Zhang\*, **H Bai\***, R Zhang\*, J Gu, S Zhai, J Susskind, N Jaitly. How Far Are We from Intelligent Visual Deductive Reasoning? COLM 2024 [[pdf]](https://arxiv.org/abs/2403.04732)[[code]](https://github.com/apple/ml-rpm-bench). (*equal)
 
-P Shi, L Song, L Jin, H Mi, **He Bai**, J Lin, D Yu. Cross-lingual Text-to-SQL Semantic Parsing with Representation Mixup. Findings of the Association for Computational Linguistics: EMNLP 2022, 5296-5306. 2022.
-
 **He Bai\***, Renjie Zheng\*, Junkun Chen, Xintong Li, Mingbo Ma, Liang Huang. A3T: Alignment-Aware Acoustic and Text Pretraining for Speech Synthesis and Editing.  ICML 2022 [[pdf]](https://arxiv.org/abs/2203.09690)[[code]](https://github.com/richardbaihe/a3t). (*equal)
 
 **He Bai**, Tong Wang, Alessandro Sordoni, Peng Shi. Better Language Model with Hypernym Class Prediction. ACL 2022 [[pdf]](https://openreview.net/pdf?id=YjZH6EpuSY) [[code]](https://github.com/richardbaihe/robustLM).
