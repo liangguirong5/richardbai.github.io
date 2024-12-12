@@ -20,12 +20,7 @@ Currently, I am deeply engaged in advancing audio and text sequence modeling, de
 ## Academic Service
 I serve as an Area Chair for ACL Rolling Review and have been an active reviewer for top-tier NLP and ML conferences since 2019, including ACL, EMNLP, ICML, NeurIPS, and ICLR. My contributions were recognized with an Outstanding Reviewer Award at ICML 2022. Most recently, I organized a challenge track at the Embodied AI Workshop in CVPR 2024. 
 
-<!-- 
-I am one of the challenge organizers of Embodied AI Workshop in CVPR 2024.  -->
-
-<!-- 
-My past works concern modeling text and speech sequences to achieve lower perplexity, better generation, and benefit downstream language tasks; specifically, we address the problem of modeling text and text-speech sequences with Transformer-based language models. My favorite works during my Ph.D. study are [Segment-Aware Language Modeling](https://arxiv.org/abs/2004.14996), [Hypernym-Instructed Language Modeling](arxiv.org/abs/2203.10692), and [Alignment-Aware Acoustic and Text Modeling](arxiv.org/abs/2203.09690).  -->
-
+## Selected Publications
 
 **He Bai\***, Tatiana Likhomanenko\*, Ruixiang Zhang, Zijin Gu, Zakaria Aldeneh, Navdeep Jaitly. dMel: Speech tokenization made simple. Preprint.  [[pdf]](https://arxiv.org/abs/2407.15835) (*equal)
 
